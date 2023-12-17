@@ -1,5 +1,9 @@
 ### Hi, I'm Yang-jaemin 🙂
 I am studying in the Intelligent Systems major at the Robotics Department of Kwangwoon University, focusing on deep learning. In particular, I am interested in studying generative tasks and tasks related to 3D imaging.
+
+### Experience
+[23.03 ~ 23.08] Naver Boostcamp AI Tech 5th Computer Vision track
+
 ### Available
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
