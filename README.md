@@ -1,5 +1,5 @@
 ### Hi, I'm Yang-jaemin 🙂
-I am studying in the Intelligent Systems major at the Robotics Department of Kwangwoon University, focusing on deep learning. In particular, I am interested in Generative AI and Speech Processing.
+I am studying in the Intelligent Systems major at the Robotics Department of Kwangwoon University, focusing on deep learning. In particular, I am interested in Generative AI and Robotics.
 
 ### Experience
 [23.03 ~ 23.08] Naver Boostcamp AI Tech 5th Computer Vision track  
